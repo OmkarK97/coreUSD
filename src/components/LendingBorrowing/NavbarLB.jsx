@@ -45,10 +45,10 @@ const NavbarLB = () => {
           <div
             className="cursor-pointer hover:text-purple-400"
             onClick={() => {
-              navigate("/stake");
+              navigate("/restake");
             }}
           >
-            Stake
+            Restake
           </div>
         </div>
         <div>

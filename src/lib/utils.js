@@ -61,6 +61,6 @@ export const useOnClickOutside = (ref, handler) => {
 }
 
 export const PoolDeatils = [
-  { id: '1', token: 'GOLD/OM', liquidity: '$69.05M', volume: '$287,313.94', balance: '0.00', img: 'ETHTokenImage' },
-  { id: '2', token: 'SILVER/OM', liquidity: '$42.08M', volume: '$2,809,063.88', balance: '0.00', img: 'ETHTokenImage' },
+  { id: '1', token: 'lstBTC', liquidity: '$69.05M', yield: '7%', balance: '0.00', img: 'https://icons.llamao.fi/icons/chains/rsz_core.jpg' },
+  { id: '2', token: 'stCORE', liquidity: '$42.08M', yield: '7%', balance: '0.00', img: 'https://icons.llamao.fi/icons/chains/rsz_core.jpg' },
 ]
