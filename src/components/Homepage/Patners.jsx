@@ -66,14 +66,13 @@ const Patners = () => {
               variants={animationVariants}
             >
               <h4 className="text-center text-2xl font-medium leading-7 text-[#101010] lg:text-[32px] lg:leading-[38px]">
-                Interoperable
+                Decentralized
               </h4>
               <p className="text-center text-sm font-normal text-[#282828] lg:text-base">
-                CoreDAO's blockchain is EVM-compatible, facilitating easy
-                interaction with Ethereum-based protocols and other blockchains.
-                This interoperability allows coreUSD to integrate into a wide
-                range of decentralized applications and cross-chain platforms,
-                enhancing its utility and adoption
+                By allowing users to deposit, borrow, and liquidate positions
+                autonomously, the protocol operates without central control,
+                ensuring that financial activities are decentralized and
+                transparent, with a fair distribution of rewards and risks
               </p>
             </motion.div>
             <motion.div

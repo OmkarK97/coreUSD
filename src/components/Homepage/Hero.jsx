@@ -8,11 +8,11 @@ const Hero = () => {
 
   return (
     <div className="relative text-white w-full h-full">
-      <h1 className="text-center text-[44px] font-medium leading-[52px] lg:text-6xl lg:leading-[86px] absolute top-[10%] left-[35%] animate-fadeInUp">
+      <h1 className="text-center text-[44px] font-medium leading-[52px] lg:text-5xl lg:leading-[86px] absolute top-[10%] left-[35%] animate-fadeInUp">
         Introducing CoreUSD,
       </h1>
-      <h1 className="text-center text-[44px] font-medium leading-[52px] lg:text-6xl lg:leading-[86px] absolute top-[14%] left-[20%] animate-fadeInUp">
-        The Stablecoin backed by Core Token
+      <h1 className="text-center text-[44px] font-medium leading-[52px] lg:text-4xl lg:leading-[86px] absolute top-[14%] left-[15%] animate-fadeInUp">
+        The Stablecoin backed by Core Token and Secured by Restaked LSD&apos;s
       </h1>
       <div>
         <h2 className="text-center text-4xl font-medium leading-[44px] text-[#FFFFFF] lg:text-[64px] lg:leading-[76px] absolute bottom-[14%] left-[35%]">
